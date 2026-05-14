@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{box-sizing:border-box;margin:0;padding:0}
+html,body,#root{width:100%;min-height:100%;background:#0C0C0C;font-family:'Kanit',sans-serif;color:#fff;scroll-behavior:smooth}
+body{overflow-x:hidden}.hero-heading{background:linear-gradient(180deg,#646973 0%,#BBCCD7 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+a{text-decoration:none;color:inherit}img{display:block;max-width:100%}
